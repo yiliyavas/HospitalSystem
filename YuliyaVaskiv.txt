@@ -1,0 +1,13 @@
+
+Name: yuliya vaskiv
+ID: 55465
+Attending Physician: alex jones neurology
+Admit Date: 5-12-2025
+Discharge Date: 12-11-2016
+
+Pharmacy charges: $2551.0
+Room Charges:     $2358.3
+Doctor's Fees:    $25.0
+_______________________________
+
+Total:            $4934.3
